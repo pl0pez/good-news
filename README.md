@@ -10,3 +10,6 @@ News about everything that I _felt_ it was good when I read it.
 
 ## Interesting papers
 - [It Must have been Burnout: Prevalence and Related Factors among Spanish PhD Students](https://www.cambridge.org/core/journals/spanish-journal-of-psychology/article/abs/it-must-have-been-burnout-prevalence-and-related-factors-among-spanish-phd-students/424837BF6DBA02642315B12DA38CFAA6) (2020, eng)
+
+## Humour
+- [Outcome Variables](https://www.linkedin.com/posts/plopgr_activity-6919897936151625728-LU4N?utm_source=linkedin_share&utm_medium=member_desktop_web)
