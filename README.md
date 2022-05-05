@@ -9,9 +9,13 @@ News about everything that I _felt_ it was good when I read it.
 - [Clean Code, Mikel Ors](https://medium.com/clarityai-engineering/clean-code-a-practical-approach-896546435235)(2022, eng)
 
 
+
 ## Interesting papers
 - [It Must have been Burnout: Prevalence and Related Factors among Spanish PhD Students](https://www.cambridge.org/core/journals/spanish-journal-of-psychology/article/abs/it-must-have-been-burnout-prevalence-and-related-factors-among-spanish-phd-students/424837BF6DBA02642315B12DA38CFAA6) (2020, eng)
 
 ## Humour
 - [Outcome Variables](https://www.linkedin.com/posts/javascript-developer_activity-6919527520950222848-hS89?utm_source=linkedin_share&utm_medium=member_desktop_web)
 - [Watching a model train](https://www.linkedin.com/posts/deeplearningai_back-in-my-day-original-activity-6921834752194871296-XOxv?utm_source=linkedin_share&utm_medium=member_desktop_web)
+
+## Interesting Facts
+- [Negative MAE in scoring sklearn](https://stackoverflow.com/questions/62125674/why-is-negative-mse-or-mas-scoring-parameter-like-neg-mean-absolute-error-in)
