@@ -19,3 +19,6 @@ News about everything that I _felt_ it was good when I read it.
 
 ## Interesting Facts
 - [Negative MAE in scoring sklearn](https://stackoverflow.com/questions/62125674/why-is-negative-mse-or-mas-scoring-parameter-like-neg-mean-absolute-error-in)
+
+## Not Engineering Related
+- [Card Game about ordering historic facts! (Thanks to Carmen Pacheco and Flecha newsletter)](https://wikitrivia.tomjwatson.com/)
