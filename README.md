@@ -16,6 +16,7 @@ News about everything that I _felt_ it was good when I read it.
 ## Humour
 - [Outcome Variables](https://www.linkedin.com/posts/javascript-developer_activity-6919527520950222848-hS89?utm_source=linkedin_share&utm_medium=member_desktop_web)
 - [Watching a model train](https://www.linkedin.com/posts/deeplearningai_back-in-my-day-original-activity-6921834752194871296-XOxv?utm_source=linkedin_share&utm_medium=member_desktop_web)
+- [Sampling Bias, by Sketchplanations](https://media-exp1.licdn.com/dms/image/C4E22AQEddMNZGoCgXA/feedshare-shrink_2048_1536/0/1651739918311?e=1654732800&v=beta&t=MJFJ-wLOMiywJFgtkIC3wJZHxv3Vov70-Mot0DXiHBw)
 
 ## Interesting Facts
 - [Negative MAE in scoring sklearn](https://stackoverflow.com/questions/62125674/why-is-negative-mse-or-mas-scoring-parameter-like-neg-mean-absolute-error-in)
