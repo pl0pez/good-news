@@ -23,3 +23,4 @@ News about everything that I _felt_ it was good when I read it.
 
 ## Not Engineering Related
 - [Card Game about ordering historic facts! (Thanks to Carmen Pacheco and Flecha newsletter)](https://wikitrivia.tomjwatson.com/)
+- [Seven types of rest](https://ideas.ted.com/the-7-types-of-rest-that-every-person-needs/?utm_campaign=social&utm_medium=social&utm_source=linkedin.com&utm_content=2022-5-15)
