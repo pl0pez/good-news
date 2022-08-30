@@ -7,6 +7,7 @@ News about everything that I _felt_ it was good when I read it.
 - [Emerging Architectures for Modern Data Infrastructure, Matt Bornstein, Jennifer Li, Martin Casado](https://future.a16z.com/emerging-architectures-modern-data-infrastructure/) (2022, eng)
 - [TechnicalDebt, Martin Fowler](https://martinfowler.com/bliki/TechnicalDebt.html) (2019, eng)
 - [Clean Code, Mikel Ors](https://medium.com/clarityai-engineering/clean-code-a-practical-approach-896546435235)(2022, eng)
+- [DevOps exercises](https://github.com/bregman-arie/devops-exercises)(2022, eng)
 
 
 
