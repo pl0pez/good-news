@@ -22,6 +22,7 @@ News about everything that I _felt_ it was good when I read it.
 ## Interesting Facts/Interviews
 - [Negative MAE in scoring sklearn](https://stackoverflow.com/questions/62125674/why-is-negative-mse-or-mas-scoring-parameter-like-neg-mean-absolute-error-in)
 - [Jot Down interview to Paco Herrera](https://www.jotdown.es/2023/03/francisco-herrera-entrevista/)
+- [Celeste Headlee TED Talk about have a better conversation](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation?subtitle=en)
 
 ## Not Engineering Related
 - [Card Game about ordering historic facts! (Thanks to Carmen Pacheco and Flecha newsletter)](https://wikitrivia.tomjwatson.com/)
