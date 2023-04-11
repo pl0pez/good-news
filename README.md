@@ -9,8 +9,6 @@ News about everything that I _felt_ it was good when I read it.
 - [Clean Code, Mikel Ors](https://medium.com/clarityai-engineering/clean-code-a-practical-approach-896546435235)(2022, eng)
 - [DevOps exercises](https://github.com/bregman-arie/devops-exercises)(2022, eng)
 
-
-
 ## Interesting papers
 - [It Must have been Burnout: Prevalence and Related Factors among Spanish PhD Students](https://www.cambridge.org/core/journals/spanish-journal-of-psychology/article/abs/it-must-have-been-burnout-prevalence-and-related-factors-among-spanish-phd-students/424837BF6DBA02642315B12DA38CFAA6) (2020, eng)
 
@@ -23,6 +21,9 @@ News about everything that I _felt_ it was good when I read it.
 - [Negative MAE in scoring sklearn](https://stackoverflow.com/questions/62125674/why-is-negative-mse-or-mas-scoring-parameter-like-neg-mean-absolute-error-in)
 - [Jot Down interview to Paco Herrera](https://www.jotdown.es/2023/03/francisco-herrera-entrevista/)
 - [Celeste Headlee TED Talk about have a better conversation](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation?subtitle=en)
+
+## Opinion
+- [Te vas a quedar en paro: cómo OpenAI juega con el miedo para seguir dominando la IA](https://www.elconfidencial.com/tecnologia/2023-03-27/open-ai-giro-posicion-cambio-empresa-privada_3598945/)(2023, esp)
 
 ## Not Engineering Related
 - [Card Game about ordering historic facts! (Thanks to Carmen Pacheco and Flecha newsletter)](https://wikitrivia.tomjwatson.com/)
